@@ -6,4 +6,4 @@ For pages BrowserRouter from "react-router-dom" is used in this project.<br/>
 
 <h2> Find the screen gif below </h2> 
 
-![](Burger26.gif)
+![Gif](Burger26.gif)
